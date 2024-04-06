@@ -1,0 +1,13 @@
+kraken:taxid|1784713
+kraken:taxid|55197
+kraken:taxid|996
+kraken:taxid|1306519
+kraken:taxid|1763534
+kraken:taxid|1355330
+kraken:taxid|312277
+kraken:taxid|96345
+kraken:taxid|1981981
+kraken:taxid|2294119
+kraken:taxid|2172098
+kraken:taxid|2183896
+kraken:taxid|2201181
